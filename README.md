@@ -24,3 +24,5 @@ I'm Taehun Lee.
 ### 📫 Contact
 - Email: xogns7652@gmail.com
 - GitHub: https://github.com/leetaeh00n
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leetaeh00n&show_icons=true&theme=default)
