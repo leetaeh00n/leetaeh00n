@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Just%20Do%20It&fontSize=90)
 
 ## Hi there 👋  
-I am a Ph.D. student in the Department of Statistics and Data Science at the University of Seoul.
+I'm Taehun Lee, currently a Ph.D. student in the Department of Statistics and Data Science at the University of Seoul.
+
 
 ### 🔬 Research Interests
 - Out-of-Distribution (OOD) Detection
@@ -12,8 +13,9 @@ I am a Ph.D. student in the Department of Statistics and Data Science at the Uni
 ---
 
 ### 🧠 About Me
-- I am interested in understanding the generalization behavior and uncertainty estimation of machine learning models under distribution shifts.  
-- My research focuses on OOD detection and model robustness, with particular attention to how predictive uncertainty influences model decision-making.
+- I am interested in understanding the generalization behavior and uncertainty estimation of machine learning models under distribution shifts.
+- My research focuses on out-of-distribution (OOD) detection and model robustness, with particular attention to how predictive uncertainty influences model decision-making.
+
 
 ---
 
@@ -33,6 +35,8 @@ I am a Ph.D. student in the Department of Statistics and Data Science at the Uni
 <a href="https://github.com/leetaeh00n">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
+
+### 🔖 Blog
 <a href="https://xogns7652.tistory.com">
   <img src="https://img.shields.io/badge/tistory-181717?style=flat-square&logo=tistory&logoColor=white"/>
 </a>
