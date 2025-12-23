@@ -36,6 +36,8 @@ I'm Taehun Lee, currently a Ph.D. student in the Department of Statistics and Da
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
 
+---
+
 ### 🔖 Blog
 <a href="https://xogns7652.tistory.com">
   <img src="https://img.shields.io/badge/tistory-181717?style=flat-square&logo=tistory&logoColor=white"/>
