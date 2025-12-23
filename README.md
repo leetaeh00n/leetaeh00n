@@ -14,7 +14,7 @@ I'm Taehun Lee, currently a Ph.D. student in the Department of Statistics and Da
 
 ### 🧠 About Me
 - I am interested in understanding the generalization behavior and uncertainty estimation of machine learning models under distribution shifts.
-- My research focuses on out-of-distribution (OOD) detection and model robustness, with particular attention to how predictive uncertainty influences model decision-making.
+- My research focuses on OOD detection and model robustness, with particular attention to how predictive uncertainty influences model decision-making.
 
 
 ---
